@@ -25,6 +25,7 @@ button{
     color: white;
     border: none;
     position: relative;
+    cursor: pointer;
     left: 40%;
 }
 
@@ -49,19 +50,13 @@ p{
 }
 
 @media (max-width : 800px) {
-    .second{
+    .third{
         display: none;
     }
 }
 
 @media (max-width : 450px) {
     button{
-        padding: 10px;
-        border-radius: 13px;
-        font-size: 1rem;
-        background-color: rgb(37, 37, 37);
-        color: white;
-        border: none; 
         position: relative;
         left: 10px;
     }
