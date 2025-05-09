@@ -58,7 +58,7 @@ p{
 @media (max-width : 450px) {
     button{
         position: relative;
-        left: 10px;
+        left: 0;
     }
 
     .second, .third{
